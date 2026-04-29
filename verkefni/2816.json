@@ -1,0 +1,46 @@
+{
+  "verkefni": 2816,
+  "source_url": "https://skraning.minjastofnun.is/Verkefni_2816.pdf",
+  "title": "Hausthúsatorg á Akranesi - Deiliskráning fornleifa",
+  "authors": "Adolf Friðriksson",
+  "page_count": 11,
+  "site_count": 4,
+  "sites": [
+    {
+      "id": "BO-074:022",
+      "header": "",
+      "lat": 64.3296,
+      "lon": -22.0487,
+      "description": "leið",
+      "hættumat": null,
+      "heimild": null
+    },
+    {
+      "id": "BO-074:023",
+      "header": "",
+      "lat": 64.33,
+      "lon": -22.05,
+      "description": "mógrafir Fornleifar nærri deiliskipulagsreit",
+      "hættumat": null,
+      "heimild": null
+    },
+    {
+      "id": "BO-074:016",
+      "header": "Hvítasteinsholt",
+      "lat": 64.3294,
+      "lon": -22.049,
+      "description": "Hvítasteinsholt áfangastaður",
+      "hættumat": null,
+      "heimild": null
+    },
+    {
+      "id": "BO-074:021",
+      "header": "Höfðastekkur",
+      "lat": 64.3288,
+      "lon": -22.0534,
+      "description": "Höfðastekkur stekkur Óstaðsetjanlegar minjar í landi Elínarhöfða BO-074:010 [Elínarhöfðahjáleiga] bæjarstæði býli 11 Heimildir Óprentaðar heimildir Héraðsskjalasafn Akraness Uppdráttur Ólafs Jónssonar af Garðaflóa, 22. Júlí 1897. Landmælingar Íslands, Akranesi Loftmyndasafn: GX-12516-50 (1942), AMS123411103 (1945), Li2-0694 (1954), Li2- 2983 (1956), A-6657 (1964). Örnefnasafn Stofnunar Árna Magnússonar, Reykjavík Örnefnaskrá Miðvogs Örnefnaskrá Elínarhöfða Skipulagsstjóri, Reykjavík Akranes. Uppdráttur Knud Zimsen og Ólafs Jónssonar 1901, skjalasafn Skipulagsstofnunar. Þjóðskjalasafn Íslands, Reykjavík 0038-1928-011-B-B14-0022-27. Örk: 27 Kassi: 0022. 1802-1802. Bréf Ohlsens lautinants justitsráðs Jensens um kort yfir Akranes. Prentaðar heimildir Adolf Friðriksson og Orri Vésteinsson: Akranes. Fornleifaskrá, Fornleifastofnun Íslands 1999, FS066-97052 Reykjavík. Ásmundur Þórðarson, Upphaf vélvæðingar í íslenskum landbúnaði. Akranes – Traktorinn. Skessuhorn, 25.7.2018, s. 26-27. Byggðir Borgarfjarðar I-II., án útgst., Búnaðarsamband Borgarfjarðar, 1989. DI: Íslenzkt fornbréfasafn I-XVI, Kaupmannahöfn/Reykjavík 1857-1972. Jarðabók: Árni Magnússon & Páll Vídalín, Jarðabók Árna Magnússonar og Páls Vídalín, Kh., Hið íslenzka fræðafélag, 1913. J. Johnsen: Jarðatal á Íslandi, Kaupmannahöfn 1847.",
+      "hættumat": null,
+      "heimild": null
+    }
+  ]
+}

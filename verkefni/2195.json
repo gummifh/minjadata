@@ -1,0 +1,127 @@
+{
+  "verkefni": 2195,
+  "source_url": "https://skraning.minjastofnun.is/Verkefni_2195.pdf",
+  "title": "Fornleifar í Kalmansvík. Deiliskráning 2018. FS689-16262",
+  "authors": "Adolf Friðriksson | Lilja Laufey Davíðsdóttir",
+  "page_count": 18,
+  "site_count": 13,
+  "sites": [
+    {
+      "id": "BO-058:001",
+      "header": "Bo-058:001",
+      "lat": 64.32651200954753,
+      "lon": -22.073679438917495,
+      "description": "bæjarhóll bústaður Hóllinn stendur við vesturenda Kalmansvíkur. Grasi vaxinn hóll sem stendur í jaðri byggðarinnar og út á sjávarbakkanum. Rof er í bakkann. Allur vesturhluti túnsins, þ.e. túnið vestan og sunnan Presthúsabæjar, er horfinn undir nýbyggingar. Austurendi túnsins nær út að sjó yst í Kalmansvík og er það enn autt svæði. Göngustígur er þvert yfir hólinn og lítilsháttar rof þar í.",
+      "hættumat": "Mikil hætta vegna sjávargangs",
+      "heimild": "Túnakort 1917."
+    },
+    {
+      "id": "BO-058:002",
+      "header": "Bo-058:002",
+      "lat": 64.32678162169061,
+      "lon": -22.072819441764633,
+      "description": "tóft Útihús stóð um 30 m norðaustan við bæinn samkvæmt túnakorti frá 1917. Austast í túninu, þar sem það náði að túni Kalmansbæjar má sjá votta fyrir beðasléttum og milli túns og sjávarbakka eru þústir eða ógreinilegar tóftaleifar. Hefur sjóvarnargarður dregið úr landbroti sem var mikið á þessum slóðum. Liggur tóftarbrotið milli fjöru og göngustígs. Þar eru leifar af mannvirki á lágum, grasi grónum hól sem gæti geymt eldri leifar. Tóftin virðist hafa verið tvískipt, snýr NV-SA, en líklega hefur norðurgafl brotið af vegna sjávargangs. Mesta lengd er um 8 m á hvorn veg.",
+      "hættumat": "Mikil hætta vegna sjávargangs",
+      "heimild": "Túnakort 1917."
+    },
+    {
+      "id": "BO-058:003",
+      "header": "Bo-058:003",
+      "lat": 64.32651200954753,
+      "lon": -22.073679438917495,
+      "description": "heimild um útihús Útihús stóð um 8 m SA við bæinn samkvæmt túnakorti. Nú er þar grasi gróin spilda, skammt utan við lóðina Ægisbraut nr. 9.",
+      "hættumat": "hætta vegna útivistar",
+      "heimild": "Túnakort 1917."
+    },
+    {
+      "id": "BO-058:004",
+      "header": "Bo-058:004",
+      "lat": 64.32651200954753,
+      "lon": -22.073679438917495,
+      "description": "heimild um útihús Útihús stóð um 6 m SA við bæinn, fast NNA við útihús nr. 003, samkvæmt túnakorti. Þar er nú grasi gróin spilda, sem liggur skammt utan við lóð nr. 9 við Ægisbraut og ekki sjást þar neinar tóftaleifar.",
+      "hættumat": null,
+      "heimild": "Túnakort 1917. Bo-058:008 bæjarstæði bústaður Tómthús var hjá Presthúsum skv. jarðabók frá 1705. Ekki verður vitað um staðsetningu þess. Heimild: JÁM IV, 85. Bo-058:009 bæjarstæði bústaður Tómthús var hjá Presthúsum skv. jarðabók frá 1705. Ekki verður vitað um staðsetningu þess. Heimild: JÁM IV, 85. Bo-058:010 heimild um verbúð Í Jarðabók Árna og Páls segir: \"Verbúð er hér ein, hana brúkar staðarhaldarinn fyrir sjófólk það, er skipum hans fleytir, og gánga þaug hjer ár um kring, so sem þeir fá viðkomið.\" Ekki er ljóst hvar þessi verbúð hefur staðið. Heimild: JÁM IV, 86."
+    },
+    {
+      "id": "BO-058:011",
+      "header": "Bo-058:011",
+      "lat": 64.3262830657263,
+      "lon": -22.07516507036818,
+      "description": "heimild um útihús Útihús stóð samkvæmt túnakorti um 100 m VSV við bæ. Svæðið hefur verið sléttað og ekki sjást merki um mannvirkið.",
+      "hættumat": null,
+      "heimild": "Túnakort 1917."
+    },
+    {
+      "id": "BO-058:012",
+      "header": "Bo-058:012",
+      "lat": 64.32600096846339,
+      "lon": -22.07151044302052,
+      "description": "mógrafir Á loftmyndum frá miðri 20.öld má sjá talsvert mógrafarsvæði sem á í kverk milli túna Presthúsa og Kalmansvíkur. Stærstur hluti þess er horfinn undir Esjubrautarhverfið.",
+      "hættumat": null,
+      "heimild": "LMÍ Bo-059 Kalmansvík 8 hndr. 1706. Garðakirkjueign. Venjulegri búsetu lauk 1930 en byggð hélst þar nokkuð lengur. 1920: 14168 m2, garðar 1700 m2, 1/4 þýft. Gamla túnið í Kalmansvík lá eins og víkin og stendur bæjarhóllinn í því miðju. Engar byggingar standa núna í túninu, en hér hefur verið mikið rask og túnið hefur verið sléttað og ræktað."
+    },
+    {
+      "id": "BO-059:001",
+      "header": "Bo-059:001",
+      "lat": 64.32650235967044,
+      "lon": -22.067322531240947,
+      "description": "bæjarhóll bústaður \"Var bærinn upp af Kalmansvík, þar sem nú er hóll.\" Gamla túnið í Kalmansvík er nú nær allt sléttað, frá víkinni og upp að þjóðvegi. Bærinn stóð um 30 m frá víkinni. Þar er lágur, grasi vaxinn hóll og stendur á sléttri grund innan tjaldstæðis. Ekki sést til tófta á eða við hólinn. Hefur hann orðið fyrir talsverðu raski í tímans rás.",
+      "hættumat": null,
+      "heimild": "Túnakort 1920; Byggðir Borgarfjarðar II (1989), 397."
+    },
+    {
+      "id": "BO-059:002",
+      "header": "Bo-059:002",
+      "lat": 64.32650235967044,
+      "lon": -22.067322531240947,
+      "description": "heimild um útihús Samkvæmt túmakorti stóðu útihús stóð fast við bæjarhúsin [001], en þeirra sést ekki merki.",
+      "hættumat": null,
+      "heimild": "Túnakort 1920."
+    },
+    {
+      "id": "BO-059:003",
+      "header": "Bo-059:003",
+      "lat": 64.32650235967044,
+      "lon": -22.067322531240947,
+      "description": "heimild um útihús Útihúsið stóð um 20 SSA við bæinn. Þar er nú slétt tún og ekki sér þar tóftir.",
+      "hættumat": null,
+      "heimild": "Túnakort 1920."
+    },
+    {
+      "id": "BO-059:004",
+      "header": "Bo-059:004",
+      "lat": 64.32603704857011,
+      "lon": -22.068947357675462,
+      "description": "heimild um útihús Útihúsið stóð um 100m SV við bæinn. Vegaslóðinn með víkinni er um 10 m norðan við staðinn, og skurður liggur rétt hjá að SV verðu. Þar er nú slétt tún og ekki sér þar tóftir.",
+      "hættumat": null,
+      "heimild": "Túnakort 1920."
+    },
+    {
+      "id": "BO-059:005",
+      "header": "Bo-059:005",
+      "lat": 64.32605989271215,
+      "lon": -22.070419805507584,
+      "description": "heimild um útihús Útihúsið stóð um 160 m V við bæinn, um 10 m sunnan við sjávarbakka. Þar voru (1997) leifar af garðlagi, afgirtum með torfgirðingu, 9x8 m, þar sem útihúsið hefur líklega staðið áður. Garðleifarnar eru horfnar (2016) og hafa verið sléttaðar út.",
+      "hættumat": null,
+      "heimild": "Túnakort 1920. Bo-059:006 heimild um verbúð \"Verbúð er hér ein gjörð fyrir einu ári, þar sem aldrei hafði fyrr verið ...\". Staðsetning er ekki þekkt, og ekki sjást hér tóftir sem átt gætu við þessa frásögn. Heimild: JÁM IV, 107. Bo-059:007 Sigvaldarúst heimild um rúst Svo segir í örnefnalýsingu: \"... Presthúsavík, sem var innst við kampana [018] ... Austan hennar gekkk fram smánef, Kalmansvíkurtá, og þar var framan við einstakur klettur, nefndur Grýluklettur, nú alveg horfinn. Innan við þessa tá tók svo og tekur enn við Kalmansvík. Á bakkanum við sjóinn innan við tána var rúst, sem hét Sigvaldarúst ... Þessi rúst er einnig að hverfa, er að brotna og fara í sjó.\" Það brýtur enn af bakkanum vegna sjávargangs. Ekki sér til tófta, og ekki ólíklegt að hún sé afbrotin. Hugsanlegt er að hana hafi brotið af, eða þá leifar hennar sé enn að finna á bakkanum. Sigvaldi sá er kofinn var kenndur við var afi Sigvalda Kaldalóns. Heimild: Ö-Garðar, 1."
+    },
+    {
+      "id": "BO-059:008",
+      "header": "Bo-059:008",
+      "lat": 64.3273803059922,
+      "lon": -22.06443949293445,
+      "description": "mógrafir Á loftmyndum frá miðri 20.öld má sjá talsvert mógrafarsvæði sem liggur skammt sunnan og austan tuna Kalmansvíkur. Hafa mógrafirnar verið sléttaðar út. 17",
+      "hættumat": null,
+      "heimild": "LMÍ"
+    },
+    {
+      "id": "BO-059:009",
+      "header": "Bo-059:009",
+      "lat": 64.32551310706093,
+      "lon": -22.06994449327976,
+      "description": "Kalmansvíkurbrú Þjóðleið lá frá frá Kalmansvík, um Stillholt og niður Skagann.",
+      "hættumat": "hætta vegna sjávarágangs",
+      "heimild": "Ásmundur Ólafsson (2016) Á Akranesi. Þættir um sögu og mannlíf. Akranes, Mth. Bo-059:010 heimild um rekamerki Í máldaga Garðakirkju frá því um 1220 er nefndur grjótgarður í Kalmansvík sem notaður hefur verið sem rekamark. Ekki er vitað um staðsetningu eða afdrif garðsins. Heimild: DI I, 417. BO-074 Elínarhöfði 20 hndr. 1706. \"Ýmis býli voru í landi Elínarhöfða, Hausthús, Bakkabær, Höfðavík, Elínarhöfðahjáleiga og Borgartún. Borgartún er nýbýli og nú í landi Akraness. Oft var margbýli á Elínarhöfða. Á síðari hluta 19. aldar skiptist jörðin í tvo hluta, Austurbæ, sem féll úr byggð 1921, og Vesturbæ sem fór í eyði 1935 [einnig nefnd Norðurbær og Suðurbær].\" Byggðir Borgarfjarðar II (1989), 395. 1920: 13366 m2, garðar 682 m2 (Norðurbær), 10700 m2, garðar 1202 m2 (Suðurbær). Túnið lá frá Höfðatá á Elínarhöfða og suðvestur eftir höfðanum. Hér hefur ekkert rask verið. BO-074:009 Þrætumói heimild um mannvirki \"Þrætumói heitir örnefni hjer í millum [Kalmannsvík] og Elenarhöfða. Þar ljetu Elenarhöfðaeigendur hústóft gjöra fyrir 60 árum, aaldrei komst þar bygð á, og deila Elenarhöfða eigendur við staðarhaldarann um rjett sinn til þessa örnefnis.\" Heimildir: JÁM IV, 107. BO-074:010 [Elínarhöfðahjáleiga] bæjarstæði býli \"Hjáleiga hefur hjer ein verið so menn minnast, bygð í manna minni, en eyðilögð aftur fyrir 8 árum. Það var kallað fjórðungur jarðar.\" Heimildir: JÁM IV, 108. BO-074:011 bæjarstæði bústaður \"Tómthús hefur hjer eitt verið, bygt í manna minni, og af fallið fyrir 9 árum.\" Heimildir: JÁM IV, 109. BO-074:012 Hausthús bæjarstæði bústaður \"Hausthús eða Skúti nefnist húsmennskubýli eða tómthús í landi Elínarhöfða. Var búskapur þar lengstum lítill. Í Hausthúsum var fólk a m k. 1878-1964, en frá því fyrir 1940 var þar enginn búskapur. Hausthús voru rétt við sjávarbakkann austur af Kalmansvík, fram undir klettum.\" Grasi vaxnar tóftir í gömlu túni, hér hefur ekkert rask verið gert. Aðaltóftin er fyrir miðju minjasvæðinu og talsvert áberandi. Snýr hún NV-SA, 10.7 m löng og 7.3 m breið, með dyr á suðvesturhlið. Umhverfis tóftina eru leifar garðlaga. Sunnan hennar og áfast er garðbútur, 20 m langur og snýr eins og tóftin, þ.e. frá NV til SA. Samsíða honum, en sunnar eru sýnileg garðbrot, er hið vestara um 40 m langt og hið austara um 20 m. Hættumat: hætta vegna sjávarágangs Heimildir: Byggðir Borgarfjarðar II (1989), 369; Túnakort 1920. BO-074:019 Hausthús garðlag túngarður \"Hausthús eða Skúti nefnist húsmennskubýli eða tómthús í landi Elínarhöfða. Var búskapur þar lengstum lítill. Í Hausthúsum var fólk a m k. 1878-1964, en frá því fyrir 1940 var þar enginn búskapur. Hausthús voru rétt við sjávarbakkann austur af Kalmansvík, fram undir klettum.\" Grasi vaxnar tóftir í gömlu túni, hér hefur ekkert rask verið gert. Aðaltóftin er fyrir miðju minjasvæðinu og talsvert áberandi. Snýr hún NV-SA, 10.7 m löng og 7.3 m breið, með dyr á suðvesturhlið. Umhverfis tóftina eru leifar garðlaga. Sunnan hennar og áfast er garðbútur, 20 m langur og snýr eins og tóftin, þ.e. frá NV til SA. Samsíða honum, en sunnar eru sýnileg garðbrot, er hið vestara um 40 m langt og hið austara um 20 m. Hættumat: hætta vegna sjávarágangs Heimildir: Byggðir Borgarfjarðar II (1989), 369; Túnakort 1920."
+    }
+  ]
+}
