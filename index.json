@@ -4,18 +4,21 @@
     {
       "verkefni": 1195,
       "title": "Akranes. Fornleifaskrá",
+      "year": 1999,
       "site_count": 127,
       "source_url": "https://skraning.minjastofnun.is/Verkefni_1195.pdf"
     },
     {
       "verkefni": 2195,
       "title": "Fornleifar í Kalmansvík. Deiliskráning 2018. FS689-16262",
+      "year": 2018,
       "site_count": 13,
       "source_url": "https://skraning.minjastofnun.is/Verkefni_2195.pdf"
     },
     {
       "verkefni": 2816,
       "title": "Hausthúsatorg á Akranesi - Deiliskráning fornleifa",
+      "year": 2021,
       "site_count": 4,
       "source_url": "https://skraning.minjastofnun.is/Verkefni_2816.pdf"
     }
@@ -28,6 +31,7 @@
   ],
   "generated_for_verkefni": [
     1195,
-    2195
+    2195,
+    2816
   ]
 }
