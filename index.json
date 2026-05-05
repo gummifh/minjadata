@@ -1,12 +1,12 @@
 {
-  "generated_for_bbox": [
-    -22.1,
-    64.3,
-    -21.95,
-    64.36
-  ],
-  "project_count": 2,
+  "project_count": 3,
   "projects": [
+    {
+      "verkefni": 1195,
+      "title": "Akranes. Fornleifaskrá",
+      "site_count": 127,
+      "source_url": "https://skraning.minjastofnun.is/Verkefni_1195.pdf"
+    },
     {
       "verkefni": 2195,
       "title": "Fornleifar í Kalmansvík. Deiliskráning 2018. FS689-16262",
@@ -19,5 +19,14 @@
       "site_count": 4,
       "source_url": "https://skraning.minjastofnun.is/Verkefni_2816.pdf"
     }
+  ],
+  "generated_for_bbox": [
+    -22.1,
+    64.3,
+    -21.95,
+    64.36
+  ],
+  "generated_for_verkefni": [
+    1195
   ]
 }
